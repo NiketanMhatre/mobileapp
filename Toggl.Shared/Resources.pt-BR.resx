@@ -577,7 +577,7 @@ Abra o app para marcar o tempo offline.</value>
     <value>Legal!</value>
   </data>
   <data name="RatingViewPositiveCallToActionDescription" xml:space="preserve">
-    <value>Você daria aquela força avaliando o Toggl na {0}? Sua avalição faz a diferença.</value>
+    <value>Você daria aquela força avaliando o Toggl na {0}? Sua avaliação faz a diferença.</value>
   </data>
   <data name="RatingViewPositiveCallToActionButtonTitle" xml:space="preserve">
     <value>Avaliar o app</value>
@@ -616,7 +616,7 @@ Abra o app para marcar o tempo offline.</value>
     <value>Projeto</value>
   </data>
   <data name="PrivateProjectHint" xml:space="preserve">
-    <value>Projetos privados são acessíveis somente para os memberos do projeto</value>
+    <value>Projetos privados são acessíveis somente para os membros do projeto</value>
   </data>
   <data name="Password" xml:space="preserve">
     <value>Senha</value>
@@ -850,7 +850,7 @@ Use-as para marcar seus registros de tempo com palavras-chave.</value>
   <data name="FeedbackFieldPlaceholder" xml:space="preserve">
     <value>Conte-nos o que você está achando do app. Use esse espaço para dar feedback e fazer perguntas.
 
-PS. Nosso suporte atualmente só atende em inglês. Nos desculpamos por qualquer inconvêniencia!</value>
+PS. Nosso suporte atualmente só atende em inglês. Nos desculpamos por qualquer inconveniência!</value>
   </data>
   <data name="ArchivedProjectDecorator" xml:space="preserve">
     <value>(arquivado)</value>
@@ -1063,7 +1063,7 @@ Comece a marcar seu tempo e os registros mais usados aparecerão aqui.</value>
     <value>Grande demais</value>
   </data>
   <data name="ReportTooLongDescription" xml:space="preserve">
-    <value>O periodo máximo de um relatório é de 365 dias.</value>
+    <value>O período máximo de um relatório é de 365 dias.</value>
   </data>
   <data name="LoginToTrack" xml:space="preserve">
     <value>Faça login para marcar seu tempo</value>
@@ -1144,16 +1144,16 @@ Comece a marcar seu tempo e os registros mais usados aparecerão aqui.</value>
     <value>Controla o comportamento padrão do botão de iniciar um registro de tempo. Aperta e segurar o botão sempre ativará o modo alternativo.</value>
   </data>
   <data name="SetSmartRemindersMessage" xml:space="preserve">
-    <value>Receva lembretes para marcar o tempo referente ao seus eventos</value>
+    <value>Receba lembretes para marcar o tempo referente ao seus eventos</value>
   </data>
   <data name="SelectCalendarsMessage" xml:space="preserve">
     <value>Escolha o calendário com eventos que você quer registrar usando o Toggl</value>
   </data>
   <data name="SiriReportPeriodInstruction" xml:space="preserve">
-    <value>Peça para a siri para ver um relário para esse período</value>
+    <value>Peça para a siri para ver um relatório para esse período</value>
   </data>
   <data name="SiriCustomTimeEntryInstruction" xml:space="preserve">
-    <value>Peçe para a Siri para iniciar um registro de tempo com esses detalhes</value>
+    <value>Peça para a Siri para iniciar um registro de tempo com esses detalhes</value>
   </data>
   <data name="SiriShortcuts" xml:space="preserve">
     <value>Atalhos da Siri</value>
