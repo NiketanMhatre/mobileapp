@@ -4,6 +4,8 @@ using Android.Runtime;
 using Android.Util;
 using Android.Views;
 using System;
+using System.Collections.Immutable;
+using System.Linq;
 using Toggl.Core.UI.ViewModels.Reports;
 using Toggl.Droid.Extensions;
 using Toggl.Shared;
@@ -46,7 +48,7 @@ namespace Toggl.Droid.Views
         private int selectedSliceDurationTextSize;
 
         private bool isLoading;
-        private SlicesCollection slices;
+        private SlicesCollection slices = new SlicesCollection(ImmutableList<ReportDonutChartElement.PercentageDecoratedSegment>.Empty);
         private Slice selectedSlice;
 
         private SliceSelectionAnimator selectionAnimator;
