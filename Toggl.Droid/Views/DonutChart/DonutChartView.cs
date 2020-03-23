@@ -138,6 +138,9 @@ namespace Toggl.Droid.Views
 
         public override bool OnTouchEvent(MotionEvent e)
         {
+            if (e == null || !slices.Any())
+                return false;
+
             if (e.Action != MotionEventActions.Up)
                 return base.OnTouchEvent(e);
 
