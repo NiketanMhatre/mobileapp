@@ -415,7 +415,7 @@ Abra o app para marcar o tempo offline.</value>
     <value>Total</value>
   </data>
   <data name="TokenResetInstruction" xml:space="preserve">
-    <value>Digite sua senha para acessar novamente sua conta</value>
+    <value>Digite sua senha para acessar sua conta novamente</value>
   </data>
   <data name="TimeEntryRowAccessibilityHint" xml:space="preserve">
     <value>Edita o registro de tempo</value>
@@ -508,7 +508,7 @@ Abra o app para marcar o tempo offline.</value>
     <value>A hora de início deve ser anterior à hora atual!</value>
   </data>
   <data name="StartTime" xml:space="preserve">
-    <value>Hora de início</value>
+    <value>Horário de início</value>
   </data>
   <data name="StartInBackgroundAction" xml:space="preserve">
     <value>Criar em segundo plano</value>
@@ -553,7 +553,7 @@ Abra o app para marcar o tempo offline.</value>
     <value>{0} horas e {1} segundos</value>
   </data>
   <data name="SignOutOfToggl" xml:space="preserve">
-    <value>Sair</value>
+    <value>Sair do Toggl</value>
   </data>
   <data name="SelectCountry" xml:space="preserve">
     <value>Escolher país...</value>
@@ -571,7 +571,7 @@ Abra o app para marcar o tempo offline.</value>
     <value>Não tem nada aqui</value>
   </data>
   <data name="RatingYes" xml:space="preserve">
-    <value>Boa!</value>
+    <value>Sim!</value>
   </data>
   <data name="RatingViewPositiveCallToActionTitle" xml:space="preserve">
     <value>Legal!</value>
@@ -1039,7 +1039,7 @@ Comece a marcar seu tempo e os registros mais usados aparecerão aqui.</value>
     <value>Registro de tempo removido</value>
   </data>
   <data name="NoThanks" xml:space="preserve">
-    <value>Não agora</value>
+    <value>Agora não</value>
   </data>
   <data name="SuggestionsHeader" xml:space="preserve">
     <value>SUGESTÕES</value>
@@ -1072,7 +1072,7 @@ Comece a marcar seu tempo e os registros mais usados aparecerão aqui.</value>
     <value>Faça login para mostrar as sugestões</value>
   </data>
   <data name="StartAndStopTime" xml:space="preserve">
-    <value>Horários de início e termino</value>
+    <value>Horários de início e término</value>
   </data>
   <data name="OutdatedAppTryTogglCom" xml:space="preserve">
     <value>tente acessar toggl.com</value>
@@ -1141,13 +1141,13 @@ Comece a marcar seu tempo e os registros mais usados aparecerão aqui.</value>
     <value>Nenhum registro de tempo ativo.</value>
   </data>
   <data name="ManualModeDescription" xml:space="preserve">
-    <value>Controla o comportamento padrão do botão de iniciar um registro de tempo. Aperta e segurar o botão sempre ativará o modo alternativo.</value>
+    <value>Controla o comportamento padrão do botão de iniciar um registro de tempo. Apertar e segurar o botão sempre ativará o modo alternativo.</value>
   </data>
   <data name="SetSmartRemindersMessage" xml:space="preserve">
     <value>Receba lembretes para marcar o tempo referente ao seus eventos</value>
   </data>
   <data name="SelectCalendarsMessage" xml:space="preserve">
-    <value>Escolha o calendário com eventos que você quer registrar usando o Toggl</value>
+    <value>Escolha os calendários com eventos que você queira registrar usando o Toggl</value>
   </data>
   <data name="SiriReportPeriodInstruction" xml:space="preserve">
     <value>Peça para a siri para ver um relatório para esse período</value>
